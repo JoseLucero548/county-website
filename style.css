@@ -1,0 +1,30 @@
+.nav {
+    
+
+
+
+
+}
+
+.nav{
+    border-style: none;
+    display: inline-block;
+
+}
+
+
+.nav{
+    text-decoration: none;
+    color: cadetblue;
+}
+
+.nav>li>a:hover{
+    background-color: azure;
+}
+
+
+
+h1{
+ color: blue;
+ font-family: cursive;
+}
